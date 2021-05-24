@@ -5,6 +5,14 @@
   "author": "Aga",
   "cover": "https://i.imgur.com/IOpRttO.jpg",
   "chapters": {
+    "0": {
+      "title": "Season 1 Prologue",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/qF3cDNT/"
+      },
+      "last_updated": "1620691200"
+    },
     "1": {
       "title": "Season 1 Chapter 1",
       "volume": "1",
@@ -125,6 +133,14 @@
       },
       "last_updated": "1620950400"
     },
+    "15.5": {
+      "title": "Season 1 Epilogue",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/LWccFn8/"
+      },
+      "last_updated": "1620950400"
+    },
     "16": {
       "title": "Season 2 Prologue",
       "volume": "2",
@@ -132,6 +148,14 @@
         "Coffee Break": "/proxy/api/imgur/chapter/zosA55a/"
       },
       "last_updated": "1620950400"
+    },
+    "16.1": {
+      "title": "Season 2 Chapter 1",
+      "volume": "2",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/stDucTx/"
+      },
+      "last_updated": "1621123200"
     },
     "17": {
       "title": "Season 2 Chapter 2",
