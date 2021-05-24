@@ -155,7 +155,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/afvEXWV/"
       },
-      "last_updated": "1621814400"
+      "last_updated": "1621821142.39"
     },
     "20": {
       "title": "Usa Usa Macaron (2)",
@@ -163,7 +163,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/iiIJpJa/"
       },
-      "last_updated": "1621814400"
+      "last_updated": "1621821142.39"
     },
     "40": {
       "title": "Usa Egg Over Rice",
@@ -204,6 +204,6 @@
         "Coffee Break": "/proxy/api/imgur/chapter/Zuy4tPb/"
       },
       "last_updated": "1621382400"
-    }
+    },
   }
 }
