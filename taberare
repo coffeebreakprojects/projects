@@ -1,6 +1,6 @@
 {
   "title": "Taberare Usa",
-  "description": "A cruel reincarnation cycle... I don't want to be food again in my next life! (discord.gg/zpyCzqfEgE)",
+  "description": "&#8220;A cruel reincarnation cycle... I don't want to be food again in my next life!&#8221; (discord.gg/zpyCzqfEgE)",
   "artist": "Umibird",
   "author": "Umibird",
   "cover": "https://i.imgur.com/ZGp8d7k.jpg",
@@ -148,6 +148,22 @@
         "Coffee Break": "/proxy/api/imgur/chapter/aIoFoJo/"
       },
       "last_updated": "1621728000"
+    },
+    "19": {
+      "title": "Usa Usa Macaron",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/afvEXWV/"
+      },
+      "last_updated": "1621814400"
+    },
+    "20": {
+      "title": "Usa Usa Macaron (2)",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/iiIJpJa/"
+      },
+      "last_updated": "1621814400"
     },
     "40": {
       "title": "Usa Egg Over Rice",
