@@ -238,7 +238,7 @@
       "last_updated": "1622062655"
     },
     "30": {
-      "title": "Usa Biscuits We'll Never Break Apart(2)",
+      "title": "Usa Biscuits We'll Never Break Apart (2)",
       "volume": "1",
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/zIv3WZb/"
@@ -246,7 +246,7 @@
       "last_updated": "1622065812"
     },
     "31": {
-      "title": "Usa Biscuits We'll Never Break Apart(3)",
+      "title": "Usa Biscuits We'll Never Break Apart (3)",
       "volume": "1",
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/8lywUTs/"
@@ -292,6 +292,30 @@
         "Coffee Break": "/proxy/api/imgur/chapter/KsH7dkW/"
       },
       "last_updated": "1622171653"
+    },
+    "37": {
+      "title": "Usa Usa What Kind of Dough? (4)",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/SzP2xOE/"
+      },
+      "last_updated": "1622232169"
+    },
+    "38": {
+      "title": "Usa Usa What Kind of Dough? (5)",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/k6bcjH8/"
+      },
+      "last_updated": "1622232480"
+    },
+    "39": {
+      "title": "Bura-chan's Potato and Ham Salad",
+      "volume": "1",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/AR0G005/"
+      },
+      "last_updated": "1622233642"
     },
     "40": {
       "title": "Usa Egg Over Rice",
