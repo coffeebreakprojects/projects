@@ -11,7 +11,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/qF3cDNT/"
       },
-      "last_updated": "1620691200"
+      "last_updated": "1620705600"
     },
     "2": {
       "title": "Season 1 Chapter 1",
@@ -19,7 +19,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/4ffFlQ8/"
       },
-      "last_updated": "1620691200"
+      "last_updated": "1620705600"
     },
     "3": {
       "title": "Season 1 Chapter 2",
@@ -27,7 +27,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/dUlHe8J/"
       },
-      "last_updated": "1620691200"
+      "last_updated": "1620705600"
     },
     "4": {
       "title": "Season 1 Chapter 3",
@@ -35,7 +35,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/Fv9vXSD/"
       },
-      "last_updated": "1620777600"
+      "last_updated": "1620792000"
     },
     "5": {
       "title": "Season 1 Chapter 4",
@@ -43,7 +43,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/yYD1LWT/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "6": {
       "title": "Season 1 Chapter 5",
@@ -51,7 +51,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/QahyRwB/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "7": {
       "title": "Season 1 Chapter 6",
@@ -59,7 +59,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/uP9fHfU/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "8": {
       "title": "Season 1 Chapter 7",
@@ -67,7 +67,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/6QtlHZU/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "9": {
       "title": "Season 1 Chapter 8",
@@ -75,7 +75,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/FiaBQQf/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "10": {
       "title": "Season 1 Chapter 9",
@@ -83,7 +83,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/1xmH5tL/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "11": {
       "title": "Season 1 Chapter 10",
@@ -91,7 +91,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/6RGFWNP/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "12": {
       "title": "Season 1 Chapter 11",
@@ -99,7 +99,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/RRR5BMD/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "13": {
       "title": "Season 1 Chapter 12",
@@ -107,7 +107,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/AYads4a/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "14": {
       "title": "Season 1 Chapter 13",
@@ -115,7 +115,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/ZsDRLIQ/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "15": {
       "title": "Season 1 Chapter 14",
@@ -123,7 +123,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/OwzdDOW/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "16": {
       "title": "Season 1 Chapter 15",
@@ -131,7 +131,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/NtdhMoE/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "17": {
       "title": "Season 1 Epilogue",
@@ -139,7 +139,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/LWccFn8/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "18": {
       "title": "Season 2 Prologue",
@@ -147,7 +147,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/zosA55a/"
       },
-      "last_updated": "1620950400"
+      "last_updated": "1620964800"
     },
     "19": {
       "title": "Season 2 Chapter 1",
@@ -155,7 +155,7 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/stDucTx/"
       },
-      "last_updated": "1621123200"
+      "last_updated": "1621137600"
     },
     "20": {
       "title": "Season 2 Chapter 2",
@@ -163,7 +163,15 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/2Qsguur/"
       },
-      "last_updated": "1621641600"
+      "last_updated": "1621656000"
+    },
+    "21": {
+      "title": "Season 2 Chapter 3",
+      "volume": "2",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/pyVeSGN/"
+      },
+      "last_updated": "1622478234"
     }
   }
 }
