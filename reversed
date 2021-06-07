@@ -171,7 +171,15 @@
       "groups": {
         "Coffee Break": "/proxy/api/imgur/chapter/pyVeSGN/"
       },
-      "last_updated": "1622478234"
+      "last_updated": "1622492634"
+    },
+    "22": {
+      "title": "Season 2 Chapter 4",
+      "volume": "2",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/GJrr4J9/"
+      },
+      "last_updated": "1623104127"
     }
   }
 }
