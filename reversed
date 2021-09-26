@@ -220,6 +220,22 @@
         "Coffee Break": "/proxy/api/imgur/chapter/xNZLREr/"
       },
       "last_updated": "1630225882"
+    },
+    "28": {
+      "title": "Season 2 Chapter 10",
+      "volume": "2",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/8Ei1ghP/"
+      },
+      "last_updated": "1632682708"
+    },
+    "29": {
+      "title": "Season 2 Chapter 11",
+      "volume": "2",
+      "groups": {
+        "Coffee Break": "/proxy/api/imgur/chapter/Qq3Bkwj/"
+      },
+      "last_updated": "1632682708"
     }
   }
 }
