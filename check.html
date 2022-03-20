@@ -1,0 +1,13 @@
+// checks whether localstorage is enabled for 3rd party
+
+<body>
+<script>
+	try {
+		localStorage.checklocal = "checklocalstorage";
+		window.parent.postMessage('Y', '*');
+			}
+	catch {
+		window.parent.postMessage('N', '*');
+	}
+</script>
+</body>
