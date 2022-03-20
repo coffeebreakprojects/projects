@@ -5,7 +5,8 @@
 	try {
 		localStorage.checklocal = "checklocalstorage";
 		window.parent.postMessage('Y', '*');
-			}
+		delete localStorage.checklocal;
+	}
 	catch {
 		window.parent.postMessage('N', '*');
 	}
